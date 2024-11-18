@@ -1,0 +1,5 @@
+Bytes, Duration, Packet Size
+
+1200, 30, 1500
+
+50000, 2, 25000
